@@ -1,0 +1,662 @@
+[
+  {
+    "Release Date": "14-Mar-18",
+    "Title": "Tomb Raider",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1365519/?ref_=rlm"
+  },
+  {
+    "Release Date": "16-Mar-18",
+    "Title": "Peter Rabbit",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5117670/?ref_=rlm"
+  },
+  {
+    "Release Date": "16-Mar-18",
+    "Title": "The Square",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt4995790/?ref_=rlm"
+  },
+  {
+    "Release Date": "16-Mar-18",
+    "Title": "Mary Magdalene",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5360996/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Mar-18",
+    "Title": "A Wrinkle in Time",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1620680/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Mar-18",
+    "Title": "Pacific Rim Uprising",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt2557478/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Mar-18",
+    "Title": "Unsane",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt7153766/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Mar-18",
+    "Title": "Mark Felt: The Man Who Brought Down the White House",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5175450/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Mar-18",
+    "Title": "Proud Mary",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6421110/?ref_=rlm"
+  },
+  {
+    "Release Date": "28-Mar-18",
+    "Title": "Ready Player One",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1677720/?ref_=rlm"
+  },
+  {
+    "Release Date": "30-Mar-18",
+    "Title": "Isle of Dogs",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5104604/?ref_=rlm"
+  },
+  {
+    "Release Date": "30-Mar-18",
+    "Title": "Blockers",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt2531344/?ref_=rlm"
+  },
+  {
+    "Release Date": "30-Mar-18",
+    "Title": "Midnight Sun",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4799066/?ref_=rlm"
+  },
+  {
+    "Release Date": "30-Mar-18",
+    "Title": "Paul, Apostle of Christ",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt7388562/?ref_=rlm"
+  },
+  {
+    "Release Date": "30-Mar-18",
+    "Title": "The Bachelors",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5253282/?ref_=rlm"
+  },
+  {
+    "Release Date": "01-Apr-18",
+    "Title": "Woody Woodpecker",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt2114504/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "Death Wish",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1137450/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "Thoroughbreds",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5649108/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "I Kill Giants",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt4547194/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "Love, Simon",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5164432/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "The Hurricane Heist",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5360952/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "Wonderstruck",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5208216/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "BPM",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt6135348/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Apr-18",
+    "Title": "Ghost Stories",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5516328/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-Apr-18",
+    "Title": "Rampage",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt2231461/?ref_=rlm"
+  },
+  {
+    "Release Date": "12-Apr-18",
+    "Title": "You, Me and Him",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt4928814/?ref_=rlm"
+  },
+  {
+    "Release Date": "13-Apr-18",
+    "Title": "The Titan",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4986098/?ref_=rlm"
+  },
+  {
+    "Release Date": "13-Apr-18",
+    "Title": "Truth or Dare",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6772950/?ref_=rlm"
+  },
+  {
+    "Release Date": "16-Apr-18",
+    "Title": "Accident Man",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6237612/?ref_=rlm"
+  },
+  {
+    "Release Date": "20-Apr-18",
+    "Title": "Every Day",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt7026672/?ref_=rlm"
+  },
+  {
+    "Release Date": "20-Apr-18",
+    "Title": "The Strangers: Prey at Night",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1285009/?ref_=rlm"
+  },
+  {
+    "Release Date": "20-Apr-18",
+    "Title": "Tully",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5610554/?ref_=rlm"
+  },
+  {
+    "Release Date": "20-Apr-18",
+    "Title": "The Guernsey Literary and Potato Peel Pie Society",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1289403/?ref_=rlm"
+  },
+  {
+    "Release Date": "27-Apr-18",
+    "Title": "Avengers: Infinity War",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4154756/?ref_=rlm"
+  },
+  {
+    "Release Date": "04-May-18",
+    "Title": "A Quiet Place",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6644200/?ref_=rlm"
+  },
+  {
+    "Release Date": "04-May-18",
+    "Title": "I Feel Pretty",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6791096/?ref_=rlm"
+  },
+  {
+    "Release Date": "04-May-18",
+    "Title": "The Leisure Seeker",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt3741632/?ref_=rlm"
+  },
+  {
+    "Release Date": "04-May-18",
+    "Title": "Lean on Pete",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5340300/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-May-18",
+    "Title": "Sherlock Gnomes",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt2296777/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-May-18",
+    "Title": "7 Days in Entebbe",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5466186/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-May-18",
+    "Title": "Life of the Party",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5619332/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-May-18",
+    "Title": "Revenge",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt6738136/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-May-18",
+    "Title": "Breaking In",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt7137846/?ref_=rlm"
+  },
+  {
+    "Release Date": "11-May-18",
+    "Title": "How to Talk to Girls at Parties",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt3859310/?ref_=rlm"
+  },
+  {
+    "Release Date": "16-May-18",
+    "Title": "The Untitled Deadpool Sequel",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5463162/?ref_=rlm"
+  },
+  {
+    "Release Date": "18-May-18",
+    "Title": "On Chesil Beach",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt1667321/?ref_=rlm"
+  },
+  {
+    "Release Date": "19-May-18",
+    "Title": "Submergence",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt3563262/?ref_=rlm"
+  },
+  {
+    "Release Date": "25-May-18",
+    "Title": "Solo: A Star Wars Story",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt3778644/?ref_=rlm"
+  },
+  {
+    "Release Date": "25-May-18",
+    "Title": "Samson",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6951892/?ref_=rlm"
+  },
+  {
+    "Release Date": "25-May-18",
+    "Title": "The Breadwinner",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt3901826/?ref_=rlm"
+  },
+  {
+    "Release Date": "25-May-18",
+    "Title": "God's Not Dead: A Light in Darkness",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6652708/?ref_=rlm"
+  },
+  {
+    "Release Date": "01-Jun-18",
+    "Title": "Book Club",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6857166/?ref_=rlm"
+  },
+  {
+    "Release Date": "01-Jun-18",
+    "Title": "My Friend Dahmer",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt2291540/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Jun-18",
+    "Title": "Jurassic World: Fallen Kingdom",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4881806/?ref_=rlm"
+  },
+  {
+    "Release Date": "15-Jun-18",
+    "Title": "Hereditary",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt7784604/?ref_=rlm"
+  },
+  {
+    "Release Date": "15-Jun-18",
+    "Title": "Super Troopers 2",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt0859635/?ref_=rlm"
+  },
+  {
+    "Release Date": "22-Jun-18",
+    "Title": "Ocean's 8",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5164214/?ref_=rlm"
+  },
+  {
+    "Release Date": "29-Jun-18",
+    "Title": "Sicario 2: Soldado",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5052474/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Jul-18",
+    "Title": "The First Purge",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6133466/?ref_=rlm"
+  },
+  {
+    "Release Date": "06-Jul-18",
+    "Title": "Mary Shelley",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt3906082/?ref_=rlm"
+  },
+  {
+    "Release Date": "13-Jul-18",
+    "Title": "Marrowbone",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5886440/?ref_=rlm"
+  },
+  {
+    "Release Date": "13-Jul-18",
+    "Title": "Incredibles 2",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt3606756/?ref_=rlm"
+  },
+  {
+    "Release Date": "13-Jul-18",
+    "Title": "Skyscraper",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5758778/?ref_=rlm"
+  },
+  {
+    "Release Date": "26-Jul-18",
+    "Title": "Mission: Impossible - Fallout",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4912910/?ref_=rlm"
+  },
+  {
+    "Release Date": "27-Jul-18",
+    "Title": "Mamma Mia! Here We Go Again",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6911608/?ref_=rlm"
+  },
+  {
+    "Release Date": "27-Jul-18",
+    "Title": "Hotel Transylvania 3: Summer Vacation",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5220122/?ref_=rlm"
+  },
+  {
+    "Release Date": "03-Aug-18",
+    "Title": "Ant-Man and the Wasp",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5095030/?ref_=rlm"
+  },
+  {
+    "Release Date": "03-Aug-18",
+    "Title": "Teen Titans Go! To the Movies",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt7424200/?ref_=rlm"
+  },
+  {
+    "Release Date": "10-Aug-18",
+    "Title": "The Meg",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4779682/?ref_=rlm"
+  },
+  {
+    "Release Date": "10-Aug-18",
+    "Title": "Mile 22",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4560436/?ref_=rlm"
+  },
+  {
+    "Release Date": "10-Aug-18",
+    "Title": "The Spy Who Dumped Me",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6663582/?ref_=rlm"
+  },
+  {
+    "Release Date": "10-Aug-18",
+    "Title": "The Darkest Minds",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4073790/?ref_=rlm"
+  },
+  {
+    "Release Date": "17-Aug-18",
+    "Title": "Christopher Robin",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4575576/?ref_=rlm"
+  },
+  {
+    "Release Date": "17-Aug-18",
+    "Title": "The Equalizer 2",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt3766354/?ref_=rlm"
+  },
+  {
+    "Release Date": "17-Aug-18",
+    "Title": "Captive State",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5968394/?ref_=rlm"
+  },
+  {
+    "Release Date": "24-Aug-18",
+    "Title": "Disobedience",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt6108178/?ref_=rlm"
+  },
+  {
+    "Release Date": "24-Aug-18",
+    "Title": "Slender Man",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5690360/?ref_=rlm"
+  },
+  {
+    "Release Date": "24-Aug-18",
+    "Title": "The Happytime Murders",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1308728/?ref_=rlm"
+  },
+  {
+    "Release Date": "31-Aug-18",
+    "Title": "White Boy Rick",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4537896/?ref_=rlm"
+  },
+  {
+    "Release Date": "07-Sep-18",
+    "Title": "The Nun",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5814060/?ref_=rlm"
+  },
+  {
+    "Release Date": "07-Sep-18",
+    "Title": "Faces Places",
+    "Year Made": 2017,
+    "Movie Link": "http://www.imdb.com/title/tt5598102/?ref_=rlm"
+  },
+  {
+    "Release Date": "07-Sep-18",
+    "Title": "American Animals",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6212478/?ref_=rlm"
+  },
+  {
+    "Release Date": "14-Sep-18",
+    "Title": "The Predator",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt3829266/?ref_=rlm"
+  },
+  {
+    "Release Date": "14-Sep-18",
+    "Title": "Alpha",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4244998/?ref_=rlm"
+  },
+  {
+    "Release Date": "05-Oct-18",
+    "Title": "Venom",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1270797/?ref_=rlm"
+  },
+  {
+    "Release Date": "05-Oct-18",
+    "Title": "A Star Is Born",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1517451/?ref_=rlm"
+  },
+  {
+    "Release Date": "05-Oct-18",
+    "Title": "Smallfoot",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6182908/?ref_=rlm"
+  },
+  {
+    "Release Date": "12-Oct-18",
+    "Title": "Johnny English 3",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6921996/?ref_=rlm"
+  },
+  {
+    "Release Date": "12-Oct-18",
+    "Title": "Bad Times at the El Royale",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6628394/?ref_=rlm"
+  },
+  {
+    "Release Date": "19-Oct-18",
+    "Title": "Halloween",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1502407/?ref_=rlm"
+  },
+  {
+    "Release Date": "19-Oct-18",
+    "Title": "Mowgli",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt2388771/?ref_=rlm"
+  },
+  {
+    "Release Date": "19-Oct-18",
+    "Title": "Goosebumps: Horrorland",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5664636/?ref_=rlm"
+  },
+  {
+    "Release Date": "25-Oct-18",
+    "Title": "Overlord",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4530422/?ref_=rlm"
+  },
+  {
+    "Release Date": "26-Oct-18",
+    "Title": "The Nutcracker and the Four Realms",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5523010/?ref_=rlm"
+  },
+  {
+    "Release Date": "31-Oct-18",
+    "Title": "X-Men: Dark Phoenix",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt6565702/?ref_=rlm"
+  },
+  {
+    "Release Date": "02-Nov-18",
+    "Title": "First Man",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1213641/?ref_=rlm"
+  },
+  {
+    "Release Date": "09-Nov-18",
+    "Title": "The Grinch",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt2709692/?ref_=rlm"
+  },
+  {
+    "Release Date": "09-Nov-18",
+    "Title": "Widows",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4218572/?ref_=rlm"
+  },
+  {
+    "Release Date": "16-Nov-18",
+    "Title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4123430/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Nov-18",
+    "Title": "Robin Hood",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4532826/?ref_=rlm"
+  },
+  {
+    "Release Date": "23-Nov-18",
+    "Title": "The Girl in the Spider's Web",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5177088/?ref_=rlm"
+  },
+  {
+    "Release Date": "30-Nov-18",
+    "Title": "Ralph Breaks the Internet: Wreck-It Ralph 2",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5848272/?ref_=rlm"
+  },
+  {
+    "Release Date": "07-Dec-18",
+    "Title": "Holmes and Watson",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1255919/?ref_=rlm"
+  },
+  {
+    "Release Date": "14-Dec-18",
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4633694/?ref_=rlm"
+  },
+  {
+    "Release Date": "14-Dec-18",
+    "Title": "Mortal Engines",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1571234/?ref_=rlm"
+  },
+  {
+    "Release Date": "21-Dec-18",
+    "Title": "Aquaman",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1477834/?ref_=rlm"
+  },
+  {
+    "Release Date": "21-Dec-18",
+    "Title": "Mary Poppins Returns",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt5028340/?ref_=rlm"
+  },
+  {
+    "Release Date": "26-Dec-18",
+    "Title": "Bumblebee",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt4701182/?ref_=rlm"
+  },
+  {
+    "Release Date": "26-Dec-18",
+    "Title": "Alita: Battle Angel",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt0437086/?ref_=rlm"
+  },
+  {
+    "Release Date": "28-Dec-18",
+    "Title": "Bohemian Rhapsody",
+    "Year Made": 2018,
+    "Movie Link": "http://www.imdb.com/title/tt1727824/?ref_=rlm"
+  }
+]
